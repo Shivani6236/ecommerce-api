@@ -27,6 +27,6 @@ STEPS TO DELETE A PRODUCT:
 STEPS TO UPDATE THE QUANTITY OF A PRODUCT:
 1) Copy the object id of the product whose quantity you want to update
 2) Put the id after http://localhost:3000/products/
-3) After putting the id add /update_quantity/?number={x} in the url where x is the number by which you want to increase or decrease the quantity.
+3) After putting the id add "/update_quantity/?number={x}" in the url where x is the number by which you want to increase or decrease the quantity.
 4) the url should be looking like http://localhost:3000/products/{id}/update_quantity/?number={x}
 5) Make a POST request and you should get a message containing the update product
