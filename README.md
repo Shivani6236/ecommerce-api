@@ -2,8 +2,8 @@
 This is an E-commerce API made using Node.Js & MongoDB. 
 
 STEPS TO USE THE API:
-1) run "npm install express body-parser mongoose"
-2) run "npm start" command on terminal in this projects directory
+1) run "npm install express body-parser mongoose" command on terminal in this projects directory
+2) run "npm start"
 3) Open postman
 4) Make a GET request on http://localhost:3000/products
 5) The products should be visible
