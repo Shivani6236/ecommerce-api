@@ -5,7 +5,7 @@ STEPS TO USE THE API:
 1) run "npm install express body-parser mongoose" command on terminal in this projects directory
 2) run "npm start"
 3) Open postman
-4) Make a GET request on http://localhost:3000/products
+4) Make a GET request on [http://localhost:3000/products](https://ecommerce-api-ezdm.onrender.com/products)
 5) The products should be visible
 
 STEPS TO CREATE A NEW PRODUCT: 
